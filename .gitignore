@@ -1,0 +1,17 @@
+# remove aux files
+*.aux
+
+# remove fdb_latexmk
+*.fdb_latexmk
+
+# remove fls
+*.fls
+
+# remove log
+*.log
+
+# remove pdf
+*.pdf
+
+# remove synctex(busy)
+*.synctex(busy)
