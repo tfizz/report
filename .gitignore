@@ -15,3 +15,12 @@
 
 # remove synctex(busy)
 *.synctex(busy)
+
+# remove synctex.gz
+*.synctex.gz
+
+# remove bbl
+*.bbl
+
+# remove blg 
+*.blg
